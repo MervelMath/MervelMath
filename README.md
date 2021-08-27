@@ -1,7 +1,8 @@
 ### Olá! 👋
 
-- I'm from Rio de Janeiro, :brazil:
-
+- 🌎 I'm from Rio de Janeiro, :brazil:
+- 📌 I live in Santa Catarina, :brazil:
+ 
 - 🔭 I'm working at Alt-NDD Tech 🚀#
 - 💻 I'm a trainee.
 - 🌱 I'm learning C# - .NET
