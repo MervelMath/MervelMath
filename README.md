@@ -9,5 +9,10 @@
 - 📚 I'm studying Computer Science at IFSC.
 - ⚡ Fun fact: programmin since age 18.
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MervelMath&show_icons=true&theme=dracula)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervelMath&layout=compact)](https://github.com/MervelMath/github-readme-stats)
 
