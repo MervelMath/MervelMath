@@ -3,7 +3,7 @@
 - I'm from Rio de Janeiro, :brazil:
 
 - 🔭 I'm working at Alt-NDD Tech 🚀#
-- 💻 I'm trainee.
+- 💻 I'm a trainee.
 - 🌱 I'm learning C# - .NET
 - 💬 Ask me about Flutter.
 - 📚 I'm studying Computer Science at IFSC.
