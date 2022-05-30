@@ -5,7 +5,7 @@
  
 - 🔭 I'm working at Alt-NDD Tech. 🚀#
 - 💻 I'm a junior developer.
-- 🌱 I'm improving C# and SQL Server.
+- 🌱 I'm improving my C# and SQL Server skills.
 - 📚 I'm studying Computer Science at IFSC (5/8).
 - ⚡ Fun fact: programmin since age 18.
 </div>
