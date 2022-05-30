@@ -3,7 +3,7 @@
 - 🌎 I'm from Rio de Janeiro, :brazil:
 - 📌 I live in Santa Catarina, :brazil:
  
-- 🔭 I'm working at Alt-NDD Tech. 🚀#
+- 🔭 I'm working at Alt-NDD Tech. 🚀
 - 💻 I'm a junior developer.
 - 🌱 I'm improving my C# and SQL Server skills.
 - 📚 I'm studying Computer Science at IFSC (5/8).
