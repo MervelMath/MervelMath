@@ -3,11 +3,10 @@
 - 🌎 I'm from Rio de Janeiro, :brazil:
 - 📌 I live in Santa Catarina, :brazil:
  
-- 🔭 I'm working at Alt-NDD Tech 🚀#
-- 💻 I'm a trainee.
-- 🌱 I'm learning C# - .NET
-- 💬 Ask me about Flutter.
-- 📚 I'm studying Computer Science at IFSC.
+- 🔭 I'm working at Alt-NDD Tech. 🚀#
+- 💻 I'm a junior developer.
+- 🌱 I'm improving C# and SQL Server.
+- 📚 I'm studying Computer Science at IFSC (5/8).
 - ⚡ Fun fact: programmin since age 18.
 </div>
 <div style="display: inline_block"><br>
