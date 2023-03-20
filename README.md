@@ -4,9 +4,9 @@
 - 📌 I live in Santa Catarina, :brazil:
  
 - 🔭 I'm working at SiDi.
-- 💻 I'm a junior developer.
+- 💻 I'm a intern developer.
 - 🌱 Current learning React.Js.
-- 📚 I'm studying Computer Science at IFSC (5/8).
+- 📚 I'm studying Computer Science at IFSC (7/8).
 - ⚡ Fun fact: programmin since age 18.
 - 2.5 years experience working with C#.
 - Expirience with UWP.
