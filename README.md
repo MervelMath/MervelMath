@@ -3,7 +3,7 @@
 - 🌎 I'm from Rio de Janeiro, :brazil:
 - 📌 I live in Santa Catarina, :brazil:
  
-- 🔭 I'm working at Alt-SiDi.
+- 🔭 I'm working at SiDi.
 - 💻 I'm a junior developer.
 - 🌱 Current learning React.Js.
 - 📚 I'm studying Computer Science at IFSC (5/8).
