@@ -3,11 +3,14 @@
 - 🌎 I'm from Rio de Janeiro, :brazil:
 - 📌 I live in Santa Catarina, :brazil:
  
-- 🔭 I'm working at Alt-NDD Tech. 🚀
+- 🔭 I'm working at Alt-SiDi.
 - 💻 I'm a junior developer.
-- 🌱 I'm improving my C# and SQL Server skills.
+- 🌱 Current learning React.Js.
 - 📚 I'm studying Computer Science at IFSC (5/8).
 - ⚡ Fun fact: programmin since age 18.
+- 2.5 years experience working with C#.
+- Expirience with UWP.
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mervel-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
